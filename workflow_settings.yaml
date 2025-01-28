@@ -1,5 +1,5 @@
 defaultProject: data-analytics-sandbox-429916
-defaultLocation: EU
+defaultLocation: europe-west3
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
